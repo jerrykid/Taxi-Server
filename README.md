@@ -64,4 +64,4 @@ HubTaxi: Server Side
   ![clientLogin](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/clientLogin.png)
 
 
-Contact me at tungnguyen@vsoft.vn || Skype: tungtouch
+Contact me at 
