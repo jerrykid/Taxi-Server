@@ -1,0 +1,2 @@
+E:\Thind\Source\HubTaxi-Server-master\obj\Debug\HubTaxi-Server.njsprojResolveAssemblyReference.cache
+E:\Thind\Source\HubTaxi-Server-master\bin\Microsoft.NodejsTools.WebRole.dll
