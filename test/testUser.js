@@ -15,4 +15,5 @@ describe('User', function () {
 		});
 				
 	})
-});	
+});
+

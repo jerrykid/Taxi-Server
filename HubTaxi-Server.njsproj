@@ -48,6 +48,8 @@
     <Content Include="screenshot\setting.png" />
     <Content Include="screenshot\showTaxi.png" />
     <Compile Include="socket\socket.js" />
+    <Compile Include="test\test.js" />
+    <Compile Include="test\testUser.js" />
     <Compile Include="user\component.js" />
     <Compile Include="user\driverComponent.js" />
     <Compile Include="user\routing-config.js" />
@@ -82,6 +84,7 @@
     <Content Include="dump\mydb\userauths.metadata.json" />
     <Content Include="dump\mydb\userfinalizations.metadata.json" />
     <Content Include="dump\mydb\users.metadata.json" />
+    <Content Include="test\test.coffee" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="adapter" />
