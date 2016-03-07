@@ -10,8 +10,7 @@ describe('User', function () {
 		})
 
 		it('Should get user successfull', function () {
-			console.log(user);
-			user.getUser(done);
+            should.exist(user); 
 		});
 				
 	})

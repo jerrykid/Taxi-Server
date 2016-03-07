@@ -35,6 +35,8 @@
     "winston-mongodb": "0.4.3"
   },
   "devDependencies": {
-    "should": "^8.2.2"
+    "expect": "^1.14.0",
+    "should": "^8.2.2",
+    "simon": "^0.2.3"
   }
 }

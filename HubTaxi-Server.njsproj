@@ -48,6 +48,9 @@
     <Content Include="screenshot\setting.png" />
     <Content Include="screenshot\showTaxi.png" />
     <Compile Include="socket\socket.js" />
+    <Compile Include="test\chai.js" />
+    <Compile Include="test\Expect.js" />
+    <Compile Include="test\Simon.js" />
     <Compile Include="test\test.js" />
     <Compile Include="test\testUser.js" />
     <Compile Include="user\component.js" />

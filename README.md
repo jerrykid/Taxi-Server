@@ -1,7 +1,8 @@
 
 
 HubTaxi: Server Side
-===
+
+Setup to run:
 
 ### Technology use:
 - Serverside:
@@ -63,5 +64,6 @@ HubTaxi: Server Side
   ![client3](https://github.com/jerrykid/Taxi-Server/blob/master/screenshot/client3.png)
   ![clientLogin](https://github.com/jerrykid/Taxi-Server/blob/master/screenshot/clientLogin.png)
 
-
-Contact me at 
+Development:
+  Any tool you like, current source Development with Visual Studio 2015
+  Automation test: Mocha
