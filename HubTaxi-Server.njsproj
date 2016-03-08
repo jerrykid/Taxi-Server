@@ -13,10 +13,17 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>HubTaxi-Server</Name>
+    <NameOfLastUsedPublishProfile>TaxiServer - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
+    <Content Include="bin\ChangeConfig.ps1" />
+    <Content Include="bin\download.ps1" />
+    <Content Include="bin\Microsoft.NodejsTools.WebRole.dll" />
+    <Content Include="bin\node.cmd" />
+    <Content Include="bin\setup_web.cmd" />
+    <Content Include="favicon.ico" />
     <Content Include="index.html" />
     <Content Include="package.json" />
     <Content Include="README.md" />
@@ -87,10 +94,15 @@
     <Content Include="dump\mydb\userauths.metadata.json" />
     <Content Include="dump\mydb\userfinalizations.metadata.json" />
     <Content Include="dump\mydb\users.metadata.json" />
+    <Content Include="Web.config" />
+    <None Include="Web.Debug.config" />
+    <None Include="TaxiServer - Web Deploy.pubxml" />
+    <None Include="TaxiServer - FTP.pubxml" />
     <Content Include="test\test.coffee" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="adapter" />
+    <Folder Include="bin\" />
     <Folder Include="config" />
     <Folder Include="crud" />
     <Folder Include="dump" />

@@ -22,7 +22,6 @@
     "jugglingdb": "0.2.13",
     "jugglingdb-redis": "0.0.2-2",
     "jwt-simple": "0.2.0",
-    "mongoose": "3.6",
     "node-uuid": "1.4.1",
     "nodemailer": "^0.7.0",
     "passport": "0.2.0",
