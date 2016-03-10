@@ -24,10 +24,11 @@ Setup to run:
 - Finally, you can start server with command: `npm start` and then, your server will start at `http://localhost:6868`
 
 ===
+Demo: http://taxiclient.azurewebsites.net/
 ### Reference :
 - Manager:
   - Source code: `https://github.com/jerrykid/Taxi-Client/tree/master/manager`
-  - Demo: `http://103.232.121.63/taxi/webapp/manager/#/main` - User: `admin` | Password: `admin`
+  - Demo: `http://taxiclient.azurewebsites.net/Manager/#/login` - User: `admin` | Password: `admin`
   - Some screenshot:
   Login:
   ![login](https://github.com/jerrykid/Taxi-Server/blob/master/screenshot/login.png)
@@ -40,7 +41,7 @@ Setup to run:
 
 - Driver: 
   - Source code: `https://github.com/jerrykid/Taxi-Client/tree/master/driver`
-  - Demo: `http://103.232.121.63/taxi/webapp/driver/#/` user/pass: 30h-9999/123123
+  - Demo: `http://taxiclient.azurewebsites.net/Driver/#/login` user/pass: 30h-9999/123123
   - Screenshot:
 
   ![driver1](https://github.com/jerrykid/Taxi-Server/blob/master/screenshot/driver1.png)
@@ -53,7 +54,7 @@ Setup to run:
   
 - Client: 
   - Source code: `https://github.com/jerrykid/Taxi-Client/tree/master/client`
-  - Demo: `http://103.232.121.63/taxi/webapp/client/#/home`
+  - Demo: `http://taxiclient.azurewebsites.net/Client/#/home`
   - Screenshot:
 
   ![client1](https://github.com/jerrykid/Taxi-Server/blob/master/screenshot/client1.png)
